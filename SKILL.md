@@ -5,7 +5,7 @@ description: Operate and maintain the local 代购韩国 project, including Work
 
 # 代购韩国项目运营
 
-Use `/Users/liming/Desktop/共享文件夹/代购韩国项目` as the only source-of-truth workspace.
+Use the project root supplied by the user or the current workspace as the only source of truth. Do not maintain a second editable copy elsewhere.
 
 Before changing anything:
 

@@ -2,7 +2,7 @@
 
 ## Canonical paths
 
-- Root: `/Users/liming/Desktop/共享文件夹/代购韩国项目`
+- Root: the user-supplied project workspace
 - Cross-session context: `AGENTS.md`, `codex-memory/`
 - Store data and assets: `data/`, `dist/`
 - Product processing CLI: `scraper/`
