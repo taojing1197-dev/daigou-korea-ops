@@ -1,0 +1,4 @@
+interface:
+  display_name: "代购韩国项目运营"
+  short_description: "采集、清洗、生成商品素材、同步网站并完成验证"
+  default_prompt: "请使用 $daigou-korea-ops 处理代购韩国项目任务。"
